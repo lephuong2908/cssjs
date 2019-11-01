@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://lephuong2908.blogspot.com/';
+	var url_popup = 'https://xaydungkienan.blogspot.com/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
